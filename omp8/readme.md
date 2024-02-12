@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [JDominic](https://github.com/OldManProjekts)
+* Keyboard Maintainer: [J Dominic](https://github.com/OldManProjekts)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 

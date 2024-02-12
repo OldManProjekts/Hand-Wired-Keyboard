@@ -1,4 +1,4 @@
-// Copyright 2024 JDominic (@OldManProjekts)
+// Copyright 2024 J Dominic (@OldManProjekts)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
